@@ -1,5 +1,4 @@
-# Fuchsia Code of Conduct
-#	Fuchsia 行为守则
+# Fuchsia 行为守则
 
 Google 和 Fuchsia 团队承诺维持和促进一个多元化、受欢迎的社区。以下是我们社区的行为守则，
 它适用于我们的代码仓库、组织、邮件列表、博客内容，IRC频道和其他任何 Fuchsia 支持的社区小组，
@@ -9,7 +8,6 @@ Google 和 Fuchsia 团队承诺维持和促进一个多元化、受欢迎的社�
  * 关于 Fuchsia 的；
  * 有关功能和代码的，而不是当事人的；
 
-## Be respectful and constructive.
 ## 尊重和建设性
 
 尊重每一个人。以彼此的想法为出发点进行讨论。每个人都有权利学习他人的经验，以及在参与
@@ -17,7 +15,6 @@ Google 和 Fuchsia 团队承诺维持和促进一个多元化、受欢迎的社�
 分布式团队，所以你可能无法与他人使用母语交流。当我们致力于疑难问题时都会感到挫败，但
 我们不会允许这种挫败感变成人身攻击。
 
-## Speak up if you see or hear something.
 ## 畅所欲言
 
 当你觉得你或者其他人被无礼对待时，你有权进行委婉的回击。让你感觉不适的人或许并没有意识到
@@ -44,7 +41,6 @@ fuchsia-community-managers@google.com 发邮件申请成为社区管理人员。
  * 在请求停止后继续一对一的通信
  * 发布或威胁要发布他人的个人身份信息，亦即“恶意发布敏感信息”
  
-## Consequences for failing to comply with this policy
 ## 未能遵守本政策的后果
 
 未能遵守本政策的后果可能包含，在 Fuchsia 社区管理人员全权处理：
@@ -56,7 +52,6 @@ fuchsia-community-managers@google.com 发邮件申请成为社区管理人员。
 我们希望那些被警告的参与者立即停止扰乱社区的行为，未能遵守者将被加大惩罚力度。Fuchsia 社区管理人员的决策将会
 通过 fuchsia-community-appeals@google.com 上告。
 
-## Acknowledgements
 ## 致谢
 
 本行为准则改变自 Chromium 行为准则，并以 Geek Feminism 行为准则，Django 行为准则和
