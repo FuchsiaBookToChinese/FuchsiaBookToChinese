@@ -56,7 +56,7 @@ port install auto conf auto make lib tool libpixman pkgconfig glib2
 
 ### 获取源代码
 
-按照[获取 Fuchsia 源代码的说明](getting_source.md)操作后，在回到次文档继续如下步骤。
+按照[获取 Fuchsia 源代码的说明](getting_source.md)操作后，再回到此文档继续如下步骤。
 
 ### 构建
 
