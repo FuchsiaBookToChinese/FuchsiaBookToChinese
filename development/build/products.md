@@ -50,7 +50,7 @@ artifacts of the build, and will also be made available in the package
 repository. These packages are not added to the system update images or
 packages.
 
-**Product**中的`preinstall`部分定义一个[构建包](packages.md)列表。
+**Product**中的`preinstall`部分定义了一个[构建包](packages.md)列表。
 这个列表中的构建包会被预先安装在构建产生的磁盘镜像中，并且也可以从包文件仓库源中获取。
 这些包不会被加入到系统更新镜像或者系统更新包中。
 
@@ -62,7 +62,7 @@ packages will be available for runtime installation, but are not found in
 system update images nor are they preinstalled in any disk images. All
 members of `monolith` and `preinstall` are inherently `available`.
 
-**Product**中的`available`部分定义一个[构建包](packages.md)列表。
+**Product**中的`available`部分定义了一个[构建包](packages.md)列表。
 这个列表中的构建包只会被加入到包文件仓库源中。
 这些包可以在系统运行时被安装，但他们不会被加入到系统更新镜像，也不会被预先安装到任何磁盘镜像中。
 `monolith`和`preinstall`部分中的所有成员本质上也是`available`的（译者：即他们也符合`available`部分的包的标准）。
@@ -82,7 +82,7 @@ convention contains:
   and other common work-items.
 * `available` - all `prod` packages for the layer.
 
-每个layer的 `default` product被定义在 `//<layer>/products/default` 中，
+每个layer的`default`product被定义在 `//<layer>/products/default` 中，
 按照惯例包括以下内容：
 
 * `monolith` - 用于为本层生成系统更新的通常的最小化包集合。
