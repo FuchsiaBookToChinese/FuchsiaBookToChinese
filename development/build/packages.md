@@ -79,8 +79,8 @@ includes a single binary named `wget`. The `binaries` field does not create
 the binary--that's the job of the package's dependencies list, specified in
 `deps`:
 
-上述包定义中的 `binaries` 字段指定了这个包含有一个名为 `wget` 的二进制文件。 `binaries` 字段
-不会负责创建二进制文件————这个工作由包的依赖列表来负责，相关内容定义在 `deps` 字段中：
+上述包定义中的 `binaries` 字段指定了这个包含有一个名为 `wget` 的二进制文件。
+`binaries`字段不会负责创建二进制文件——这项工作由包的依赖列表来负责，相关内容定义在 `deps` 字段中：
 
 ```py
 # Executable defines a c++ binary, the label of the executable target will
